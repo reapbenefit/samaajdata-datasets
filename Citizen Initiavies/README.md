@@ -1,2 +1,2 @@
-# Climate Data
+# Citizen Initatives Data
 This folder contains datasets related to various citizen initaitves available on Smaajdata
