@@ -9,7 +9,7 @@ Welcome to the Samaajdata datasets repository. This repository contains publicly
 1. **[Climate Data](climate_data/)**
    - Includes datasets related to climate and environmental actions. Current datasets focus on stubble burning in Punjab.
 
-2. **[Citizen Initiatives](citizen_initiatives/)**
+2. **[Citizen Initiatives](https://github.com/reapbenefit/samaajdata-datasets/tree/main/Citizen%20Initiavies/)**
    - This folder will contain datasets documenting citizen-led initiatives for social and civic improvement. (Coming soon)
 
 3. **[Public Institutions](public_institutions/)**
