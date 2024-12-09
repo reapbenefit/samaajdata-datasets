@@ -1,4 +1,3 @@
-# samaajdata-datasets
 
 # Samaajdata Datasets
 
@@ -12,7 +11,7 @@ Welcome to the Samaajdata datasets repository. This repository contains publicly
 2. **[Citizen Initiatives](https://github.com/reapbenefit/samaajdata-datasets/tree/main/Citizen%20Initiavies/)**
    - This folder will contain datasets documenting citizen-led initiatives for social and civic improvement. (Coming soon)
 
-3. **[Public Institutions](public_institutions/)**
+3. **[Public Institutions](https://github.com/reapbenefit/samaajdata-datasets/tree/main/Public%20Institutions/)**
    - This folder will feature datasets related to public institutions and their engagement with civic issues. (Coming soon)
 
 ## Available Datasets
